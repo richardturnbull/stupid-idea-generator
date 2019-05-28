@@ -20,7 +20,8 @@ popularProductOrCompany = ["AirBnB", \
         "Slack", \
         "Lyft", \
         "YouTube", \
-        "Siri"
+        "Siri", \
+        "wibble"
 ]
 
 industryOrPopularTech = ["Big Data", \
@@ -49,7 +50,8 @@ industryOrPopularTech = ["Big Data", \
         "Virtual Reality", \
         "Augmented Reality", \
         "the Gig Economy", \
-        "Voice Interfaces"
+        "Voice Interfaces", \
+        "wobble"
 ]
 
 print("It's like", popularProductOrCompany[random.randint(0, \
